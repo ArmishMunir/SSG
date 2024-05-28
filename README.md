@@ -6,7 +6,7 @@
     ...
   }
 
-- comment code (line 95 - 97)
+- comment code (line 95 - 97) in script.js
 
 #manually
 - remove "postbuild" from scripts.
